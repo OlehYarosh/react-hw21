@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hw21/static/css/main.01fc9a4c.css",
+    "main.js": "/react-hw21/static/js/main.87868bf4.js",
+    "static/js/787.c435ccbd.chunk.js": "/react-hw21/static/js/787.c435ccbd.chunk.js",
+    "static/media/aragorn.jpg": "/react-hw21/static/media/aragorn.82f1aeb1d633de25186f.jpg",
+    "static/media/swordAragorn.jpg": "/react-hw21/static/media/swordAragorn.6c59ec2d2e93ccda1ff7.jpg",
+    "static/media/gimli.jpg": "/react-hw21/static/media/gimli.3bd390ca8d230acc9e4d.jpg",
+    "static/media/dancing.jpg": "/react-hw21/static/media/dancing.b74ec65b3a5bedb92060.jpg",
+    "static/media/comments-icon.png": "/react-hw21/static/media/comments-icon.137dbdb5102fac8c1742.png",
+    "static/media/views-icon.png": "/react-hw21/static/media/views-icon.214af0f25dabbf6069e1.png",
+    "index.html": "/react-hw21/index.html",
+    "main.01fc9a4c.css.map": "/react-hw21/static/css/main.01fc9a4c.css.map",
+    "main.87868bf4.js.map": "/react-hw21/static/js/main.87868bf4.js.map",
+    "787.c435ccbd.chunk.js.map": "/react-hw21/static/js/787.c435ccbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fc9a4c.css",
+    "static/js/main.87868bf4.js"
+  ]
+}
